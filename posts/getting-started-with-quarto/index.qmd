@@ -8,23 +8,21 @@ categories:
 
 This post explains how to setup a website quarto, customizing it and adding new content to it.
 
-## Setting Up: Fork the template repository
+## Setting Up: Create a new repository from the template
 
-The first step is to fork the [quarto-website-template][1] repository.
+The first step is to go to [quarto-website-template][1] repository.
 
-* Go to the [repository page][1] and click on the _Fork_ button
+* Go to the [repository page][1] and click on the _Use this template_ button
+* Select the _Include all branches_ checkbox
 * Select a name for your repository
 * Write a description for your repository
-* Make sure you uncheck the checkbox _Copy the main branch only_
-* And click on _Create Fork_ button
+* And click on _Create Repository_ button
 
-
-![Fork the template repository](fork-repo.png){.border}
-
+{{< video https://youtu.be/ZoMKi1UsRBk >}}
 
 [1]: https://github.com/anandology/quarto-website-template
 
-After this step, you'll have your own repository with a copy of the template.
+After this step, you'll have your own repository with a copy of the template repository.
 
 The website will be automatically published whenever you push any changes to the repository.
 
