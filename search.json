@@ -7,11 +7,11 @@
     "text": "This post explains how to setup a website quarto, customizing it and adding new content to it."
   },
   {
-    "objectID": "posts/getting-started-with-quarto/index.html#setting-up-fork-the-template-repository",
-    "href": "posts/getting-started-with-quarto/index.html#setting-up-fork-the-template-repository",
+    "objectID": "posts/getting-started-with-quarto/index.html#setting-up-create-a-new-repository-from-the-template",
+    "href": "posts/getting-started-with-quarto/index.html#setting-up-create-a-new-repository-from-the-template",
     "title": "Getting Started with Quarto website",
-    "section": "Setting Up: Fork the template repository",
-    "text": "Setting Up: Fork the template repository\nThe first step is to fork the quarto-website-template repository.\n\nGo to the repository page and click on the Fork button\nSelect a name for your repository\nWrite a description for your repository\nMake sure you uncheck the checkbox Copy the main branch only\nAnd click on Create Fork button\n\n\n\n\nFork the template repository\n\n\nAfter this step, you’ll have your own repository with a copy of the template.\nThe website will be automatically published whenever you push any changes to the repository.\nThe website will be live at URL https://&lt;your-github-username&gt;.github.io/&lt;repo-name&gt;."
+    "section": "Setting Up: Create a new repository from the template",
+    "text": "Setting Up: Create a new repository from the template\nThe first step is to go to quarto-website-template repository.\n\nGo to the repository page and click on the Use this template button\nSelect the Include all branches checkbox\nSelect a name for your repository\nWrite a description for your repository\nAnd click on Create Repository button\n\n\nAfter this step, you’ll have your own repository with a copy of the template repository.\nThe website will be automatically published whenever you push any changes to the repository.\nThe website will be live at URL https://&lt;your-github-username&gt;.github.io/&lt;repo-name&gt;."
   },
   {
     "objectID": "posts/getting-started-with-quarto/index.html#clone-the-repository",
